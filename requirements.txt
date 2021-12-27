@@ -1,0 +1,11 @@
+panel
+hvplot
+scikit-learn
+nbconvert
+django
+gunicorn
+django-heroku
+ipython
+holoviews
+shutup
+channels

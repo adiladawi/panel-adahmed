@@ -1,0 +1,2 @@
+web: python Scripts/holo.py
+worker: python Scripts/holo.py
